@@ -1,0 +1,44 @@
+C:/Users/Christopher/Downloads/counter_score.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Christopher/Downloads/counter_score.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity counter_score
+-- Compiling architecture arch_score of counter_score
+
+} {} {}} {C:/Kuliah/Semester 3/PSD/Proyek Akhir/TopLevel.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Kuliah/Semester 3/PSD/Proyek Akhir/TopLevel.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TopLevel
+-- Compiling architecture main_arch of TopLevel
+
+} {} {}} {C:/Kuliah/Semester 3/PSD/Proyek Akhir/ServisTeamA.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Kuliah/Semester 3/PSD/Proyek Akhir/ServisTeamA.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ServisTeamA
+-- Compiling architecture arch_servA of ServisTeamA
+
+} {} {}} {C:/Kuliah/Semester 3/PSD/Proyek Akhir/ServisTeamB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Kuliah/Semester 3/PSD/Proyek Akhir/ServisTeamB.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity teamB
+-- Compiling architecture arch_servB of teamB
+
+} {} {}} C:/Users/Christopher/Downloads/TopLevel_Testbench.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Christopher/Downloads/TopLevel_Testbench.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity TopLevel_Testbench
+-- Compiling architecture bench of TopLevel_Testbench
+
+} {} {}}

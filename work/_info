@@ -1,0 +1,222 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Kuliah/Semester 3/PSD/PSD Praktikum/Week 8
+Ecounter_score
+Z0 w1703404841
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 42
+Z3 dC:/Kuliah/Semester 3/PSD/Proyek Akhir
+Z4 8C:/Users/Christopher/Downloads/counter_score.vhd
+Z5 FC:/Users/Christopher/Downloads/counter_score.vhd
+l0
+L4 1
+VQQfkCC04S<SJ5E@D8YnB23
+!s100 TKjmTk2EV^3@Ye?^dXG=I1
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1703421679
+!i10b 1
+Z8 !s108 1703421679.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Christopher/Downloads/counter_score.vhd|
+Z10 !s107 C:/Users/Christopher/Downloads/counter_score.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aarch_score
+R1
+R2
+Z13 DEx4 work 13 counter_score 0 22 QQfkCC04S<SJ5E@D8YnB23
+!i122 42
+l16
+Z14 L14 35
+Z15 VO4A@2KDLnkLLkXaPRVXKO2
+Z16 !s100 I7R;42?O]8V3bd3JQ;`d`3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eservisteama
+Z17 w1703421518
+Z18 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+R1
+R2
+!i122 38
+R3
+Z19 8C:/Kuliah/Semester 3/PSD/Proyek Akhir/ServisTeamA.vhd
+Z20 FC:/Kuliah/Semester 3/PSD/Proyek Akhir/ServisTeamA.vhd
+l0
+L5 1
+VnWXhEiB=Xm>U8naT7PL1>2
+!s100 [2>WSc60ESKH@L0Q2a0cc3
+R6
+32
+Z21 !s110 1703421678
+!i10b 1
+Z22 !s108 1703421678.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Kuliah/Semester 3/PSD/Proyek Akhir/ServisTeamA.vhd|
+Z24 !s107 C:/Kuliah/Semester 3/PSD/Proyek Akhir/ServisTeamA.vhd|
+!i113 1
+R11
+R12
+Aarch_serva
+R18
+R1
+R2
+DEx4 work 11 servisteama 0 22 nWXhEiB=Xm>U8naT7PL1>2
+!i122 38
+l27
+Z25 L20 141
+VghSDkIj`QC`hB41NSkMnX3
+!s100 ]nWke3hB@6C]HfGU:2@nP2
+R6
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R11
+R12
+Eteamb
+Z26 w1703420897
+R18
+R1
+R2
+!i122 39
+R3
+Z27 8C:/Kuliah/Semester 3/PSD/Proyek Akhir/ServisTeamB.vhd
+Z28 FC:/Kuliah/Semester 3/PSD/Proyek Akhir/ServisTeamB.vhd
+l0
+L5 1
+V3Ck:7>DR_N:dEVIZCeTL?2
+!s100 W0Mee;obec@[GPlLF=BF72
+R6
+32
+R7
+!i10b 1
+R8
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Kuliah/Semester 3/PSD/Proyek Akhir/ServisTeamB.vhd|
+Z30 !s107 C:/Kuliah/Semester 3/PSD/Proyek Akhir/ServisTeamB.vhd|
+!i113 1
+R11
+R12
+Aarch_servb
+R18
+R1
+R2
+DEx4 work 5 teamb 0 22 3Ck:7>DR_N:dEVIZCeTL?2
+!i122 39
+l27
+R25
+V50?K[3i2;FE5J`Jzo?iZR2
+!s100 9GW8>H_@hd6N`81YIE=cN3
+R6
+32
+R7
+!i10b 1
+R8
+R29
+R30
+!i113 1
+R11
+R12
+Etoplevel
+Z31 w1703409019
+R1
+R2
+!i122 40
+R3
+Z32 8C:/Kuliah/Semester 3/PSD/Proyek Akhir/TopLevel.vhd
+Z33 FC:/Kuliah/Semester 3/PSD/Proyek Akhir/TopLevel.vhd
+l0
+L4 1
+VNND1CbDkb2VfC_6U3Z0301
+!s100 Z6DZ<@MiCXi]SJa<3z4_a2
+R6
+32
+R7
+!i10b 1
+R8
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Kuliah/Semester 3/PSD/Proyek Akhir/TopLevel.vhd|
+Z35 !s107 C:/Kuliah/Semester 3/PSD/Proyek Akhir/TopLevel.vhd|
+!i113 1
+R11
+R12
+Amain_arch
+R1
+R2
+DEx4 work 8 toplevel 0 22 NND1CbDkb2VfC_6U3Z0301
+!i122 40
+l62
+L16 54
+V8JhJMNk;F9cMlISGQkE?B0
+!s100 gHZ_gNXU8:2ziGdWCldHO3
+R6
+32
+R7
+!i10b 1
+R8
+R34
+R35
+!i113 1
+R11
+R12
+Etoplevel_testbench
+Z36 w1703421674
+R18
+R1
+R2
+!i122 41
+R3
+Z37 8C:/Users/Christopher/Downloads/TopLevel_Testbench.vhd
+Z38 FC:/Users/Christopher/Downloads/TopLevel_Testbench.vhd
+l0
+L5 1
+V8X]eQC2RA`O_EWKKzg=da2
+!s100 iB5Qj=[9<n;=neUH?[ool1
+R6
+32
+R7
+!i10b 1
+R8
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Christopher/Downloads/TopLevel_Testbench.vhd|
+Z40 !s107 C:/Users/Christopher/Downloads/TopLevel_Testbench.vhd|
+!i113 1
+R11
+R12
+Abench
+R18
+R1
+R2
+DEx4 work 18 toplevel_testbench 0 22 8X]eQC2RA`O_EWKKzg=da2
+!i122 41
+l35
+L8 66
+VYA@bmb^ESUXiYCB?e_B0T1
+!s100 fb1XnUWHdNF81V4jSK@z63
+R6
+32
+R7
+!i10b 1
+R8
+R39
+R40
+!i113 1
+R11
+R12
